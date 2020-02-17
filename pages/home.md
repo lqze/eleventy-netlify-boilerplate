@@ -16,6 +16,6 @@ For more info on installation and usage, view the \[project repo]({{ pkg.reposit
 
 Or click the button below to deploy your own copy of this project to Netlify
 
-
-
 HEY JEREEEEMMMMMMMMMMYYYYYYYYYYY
+
+![](/static/img/image_from_ios.jpg "Hey its me, caleb, your friendly coder with dev head. thanks for my page.")
